@@ -19,3 +19,20 @@
         #javascript{
         color: khaki
         }
+
+        button{
+            background-color: blue;
+            padding: 10px 20px; /*espaço interno*/
+            margin: 10px; /* borda */
+            border-radius: 10px; /* borda */
+            max-width: 150px;
+        }
+
+        span{
+            font-size: 20px;
+            color: purple;
+        }
+        div{
+            display: flex;
+            flex-direction: column;
+        }
