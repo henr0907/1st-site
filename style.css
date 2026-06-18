@@ -1,38 +1,49 @@
- body{
-            background-color: black;
-            color: white;
-        }
+body{
+    background-color: black;
+    color: white;
+}
 
-        li{
-    font-size: 20px;
+li{
+    font-size: 18px;
     color: red;
-        }
-    
-        #html{
-        color: orange;
-        }
-       
-        #css{
-        color: rgb(103, 103, 219);
-        }
+}
 
-        #javascript{
-        color: khaki
-        }
+#html{
+    color: rgb(255, 128, 0);
+}
 
-        button{
-            background-color: blue;
-            padding: 10px 20px; /*espaço interno*/
-            margin: 10px; /* borda */
-            border-radius: 10px; /* borda */
-            max-width: 150px;
-        }
+#css{
+    color: rgb(103, 171, 255);
+}
 
-        span{
-            font-size: 20px;
-            color: purple;
-        }
-        div{
-            display: flex;
-            flex-direction: column;
-        }
+#js{
+    color: yellow;
+}
+
+button{
+    background-color: pink;
+    padding: 10px 20px; /* ESPAÇO INTERNO */
+    margin: 10px; /* ESPAÇO EXTERNO */
+    border-radius: 10px; /* BORDA */
+    max-width: 100px;
+}
+
+span{
+    font-size: 20px;
+    color: rgb(119, 0, 255);
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+#acessivel{
+    display: fixed;
+    left: 20px;
+    bottom: 20px;
+}
+ {
+
+
+} 
